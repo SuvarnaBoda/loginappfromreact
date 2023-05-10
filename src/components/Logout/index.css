@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.but {
+  background-color: white;
+  border-radius: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: purple;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.bg {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+}
+.cardcontainer {
+  height: 350px;
+  width: 500px;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+}
